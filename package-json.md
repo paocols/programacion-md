@@ -1,16 +1,16 @@
-# El archivo package.json 
-Es un componente fundamental en proyectos que utilizan Node.js o manejan aplicaciones basadas en JavaScript. Es un archivo en formato JSON que actúa como una especie de "manual"
-o descriptor del proyecto. Su finalidad principal es proporcionar información detallada sobre el proyecto y gestionar sus dependencias, scripts y configuraciones.
-## El archivo package.json sirve para: 
-- Identificar el proyecto: Define nombre, versión, autor y descripción.
-- Gestionar dependencias: Enumera las librerías necesarias para el proyecto.
-- Configurar scripts: Define comandos para tareas como iniciar el servidor o ejecutar pruebas.
-- Establecer configuraciones: Configura aspectos específicos del proyecto.
-- Controlar versiones: Garantiza compatibilidad con Node.js y dependencias.
-## Finalidad del package.json
-- Estandarización: Facilita que todos los desarrolladores del equipo usen las mismas dependencias y configuraciones.
-- Automatización: Ayuda a definir tareas y scripts para mejorar la eficiencia del desarrollo.
-- Portabilidad: Permite que cualquier persona instale las dependencias del proyecto con un simple comando (npm install) sin necesidad de conocer cada detalle técnico.
-- Gestión de versiones: Controla las actualizaciones de las dependencias para evitar conflictos o errores en el código.
+# The package.json file
+It is a fundamental component in projects that use Node.js or manage JavaScript-based applications. It is a file in JSON format that acts as a kind of "manual"
+or project descriptor. Its main purpose is to provide detailed information about the project and manage its dependencies, scripts, and configurations.
+## The package.json file is used to:
+- Identify the project: Define name, version, author, and description.
+- Manage dependencies: List the libraries needed for the project.
+- Configure scripts: Define commands for tasks such as starting the server or running tests.
+- Set configurations: Configure specific aspects of the project.
+- Control versions: Ensure compatibility with Node.js and dependencies.
+## Purpose of package.json
+- Standardization: Makes it easier for all developers on the team to use the same dependencies and configurations.
+- Automation: Helps define tasks and scripts to improve development efficiency.
+- Portability: Allows anyone to install project dependencies with a simple command (npm install) without needing to know every technical detail.
+- Version management: Controls dependency updates to avoid conflicts or errors in the code.
 
-En resumen, el package.json es una herramienta imprescindible para gestionar y estructurar proyectos de JavaScript/Node.js de manera eficiente.
+In short, package.json is an essential tool for managing and structuring JavaScript/Node.js projects efficiently.
