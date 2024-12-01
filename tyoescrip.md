@@ -1,9 +1,9 @@
-# Instalacion de TypeScript
-## Paso 1: Verificar que tienes Node.js y npm instalados
-TypeScript se instala a través de npm (Node Package Manager), que viene con Node.js. Es esencial asegurarnos que nuestra maquina cuenta con Node.js
-- Para verificar si contamos con esta app debemos abrir nuestra terminal o consola. Escribir los siguientes comandos "node -v" "npm -v" para verificar si tienes Node.js y npm instalados.
-Si observamos la versión, esto quiere decir que Node.js y npm ya están instalados. Por el contrario si nos aparece una linea vacia quiere decir que nuestra maquina no tiene instaladas las app mencionadas.
-## Paso 2: Instalar TypeScript de manera global
-- En la terminal, ejecutaremos el comando "npm install -g typescript" para instalar TypeScript de manera global.
-"-g" se encarga de instalar globalmente.
--Verifica que la instalación fue exitosa revisando la versión de TypeScript con el siguiente comando "tsc -v". Deberias obsevar su ultima version.
+# Installing TypeScript
+## Step 1: Check that you have Node.js and npm installed
+TypeScript is installed through npm (Node Package Manager), which comes with Node.js. It is essential to make sure that our machine has Node.js
+- To check if we have this app we must open our terminal or console. Type the following commands "node -v" "npm -v" to check if you have Node.js and npm installed.
+If we look at the version, this means that Node.js and npm are already installed. On the other hand, if we see an empty line it means that our machine does not have the mentioned apps installed.
+## Step 2: Install TypeScript globally
+- In the terminal, we will run the command "npm install -g typescript" to install TypeScript globally.
+"-g" is responsible for installing globally.
+-Verify that the installation was successful by checking the TypeScript version with the following command "tsc -v". You should see the latest version.
