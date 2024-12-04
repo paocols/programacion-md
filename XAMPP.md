@@ -6,7 +6,7 @@ Download the appropriate version for your operating system:
 Windows: .exe file
 MacOS: .dmg file
 Linux: .run file
-
+![Boton de descarga](imagenes/xampp.png "Descarga")
 # Step 2: Installing on Windows
 Run the installer:
 - Double-click the downloaded file (xampp-win32-x.x.x-installer.exe).
